@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32131'
     url: http://www.gutenberg.org/2009/agents/32131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26626#Our-Little-Brown-House-A-Poem-of-West-Point1-1879
 gutenberg_issued: '2008-09-15'
 gutenberg_type: Text
 identifiers:
